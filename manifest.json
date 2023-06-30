@@ -1,0 +1,15 @@
+{
+	"format_version":1,
+	"header":{
+		"name":"minecraft servers logo",
+		"description":"",
+		"uuid":"c136eafe-e8d6-47fb-87e0-61a74961eec8",
+		"version":[2023,120,2]
+	},
+	"modules":[{
+		"description":"minecraft servers logo",
+		"type":"resources",
+		"uuid":"aaf64d21-f015-42e7-9e60-9231365e33c6",
+		"version":[2023,120,2]
+	}]
+}
